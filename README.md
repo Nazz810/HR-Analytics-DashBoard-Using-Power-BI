@@ -1,19 +1,36 @@
-# HR-Analytics-DashBoard-Using-Power-BI
+# HR Analytics DashBoard
 
- ## Overview
+## Objective:
 
-#### This dashboard provides a comprehensive view of employee attrition within an organization.
-#### It utilizes various charts and tables to visualize key data points.
+#### What are the main reasons for employee attrition, and how can HR analytics be utilized to develop effective retention strategies. To analyze employee attrition patterns within a workforce of 1,470 employees, focusing on demographics, education, salary, and job roles.
 
-## Key Insights
 
-#### Attrition by Gender: Shows the attrition rates for male and female employees.
-#### Attrition by Education: This pie chart displays the attrition rates by employee educational background.
-#### Attrition by Age Group: This bar chart displays the attrition rates for different age groups.
-#### Attrition by Salary Slab: This bar chart shows the attrition rates for different salary ranges.
-#### Attrition by Years at Company: This line chart illustrates the attrition rates across years of employment.
-#### Attrition by Job Role: This bar chart presents the attrition rates for various job roles.
-#### Job Role Breakdown Table: This table provides a detailed breakdown of attrition by job role, categorized by different attrition stages (1 to 4).
+## Insights:
+
+#### - Overall Attrition: Total attrition stands at 237, corresponding to an attrition rate of 16.1%.
+ 
+
+#### - Age Group: Highest attrition in the 26-35 age group (116 employees), followed by 18-25 (44 employees).
+
+#### - Gender: More males (143) left than females (80).
+ 
+
+#### - Education: Employees with Life Sciences education have the highest attrition rate (37.55%), followed by Medical (26.58%).
+ 
+#### - Salary Slab: Most attrition occurs in the up to 5k salary slab (163 employees), indicating high turnover in lower salary brackets.
+ 
+
+#### - Job Role: The Laboratory Technician role experiences the highest attrition (62 employees), followed by Sales Executive (57 employees).
+ 
+
+ 
 
 ## Conclusion
-#### The attrition rate is 16.1%, indicating a significant number of employees leaving the company. The highest attrition occurs among employees aged 26-35, highlighting a potential issue with retention in this age group. Attrition rates for men (143) are higher than for women (80), suggesting a potential factor in the analysis.To lower the 16.1% attrition rate,the campany should improve career development and create a supportive work environment.Gathering employee feedback will help address their concerns.These steps can lead to happier and more engaged employees.
+#### - To lower the 16.1% attrition rate,the campany should improve career development and create a supportive work environment.
+ 
+
+#### - Specifically address the high attrition among employees aged 26-35 and within the Laboratory Technician and Sales roles. Establish mentorship programs and provide targeted training resources to promote professional growth and engagement, ensuring that these groups feel valued and see a clear career path within the organization.
+ 
+
+#### - Gathering employee feedback will help address their concerns.These steps can lead to happier and more engaged employees.
+ 
