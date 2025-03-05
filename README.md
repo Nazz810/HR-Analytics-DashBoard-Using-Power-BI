@@ -7,20 +7,20 @@
 
 ## Insights:
 
-#### - Overall Attrition: Total attrition stands at 237, corresponding to an attrition rate of 16.1%.
+#### - Overall Attrition : Total attrition stands at 237, corresponding to an attrition rate of 16.1%.
  
 
-#### - Age Group: Highest attrition in the 26-35 age group (116 employees), followed by 18-25 (44 employees).
+#### - Age Group : Highest attrition in the 26-35 age group (116 employees), followed by 18-25 (44 employees).
 
-#### - Gender: More males (143) left than females (80).
+#### - Gender : More males (143) left than females (80).
  
 
-#### - Education: Employees with Life Sciences education have the highest attrition rate (37.55%), followed by Medical (26.58%).
+#### - Education : Employees with Life Sciences education have the highest attrition rate (37.55%), followed by Medical (26.58%).
  
-#### - Salary Slab: Most attrition occurs in the up to 5k salary slab (163 employees), indicating high turnover in lower salary brackets.
+#### - Salary Slab : Most attrition occurs in the up to 5k salary slab (163 employees), indicating high turnover in lower salary brackets.
  
 
-#### - Job Role: The Laboratory Technician role experiences the highest attrition (62 employees), followed by Sales Executive (57 employees).
+#### - Job Role : The Laboratory Technician role experiences the highest attrition (62 employees), followed by Sales Executive (57 employees).
  
 
  
